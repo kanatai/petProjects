@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LocalizeApp
+
+  Created by admin on 12/5/23.
+  
+*/
+
+"authenticate" = "Authenticate";
+"signIn" = "Sign In";
+"login" = "Login";
+"password" = "Password";
+
+"forgot" = "Forgot password?";
+"reset" = "Reset password";

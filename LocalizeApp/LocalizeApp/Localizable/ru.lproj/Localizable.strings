@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LocalizeApp
+
+  Created by admin on 12/5/23.
+  
+*/
+
+"authenticate" = "Авторизация";
+"signIn" = "Войти";
+"login" = "Логин";
+"password" = "Пароль";
+
+"forgot" = "Забыли пароль?";
+"reset" = "Сброс пароля";
